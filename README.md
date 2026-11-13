@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea" />
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Concluido-green?style=flat-square" />
 </p>
 
 ## 💢 Funcionalidades
