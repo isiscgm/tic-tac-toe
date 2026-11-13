@@ -1,12 +1,16 @@
 package Model;
 
-public class Tabuleiro {
+public class  Tabuleiro {
     private char [][] casasTabuleiro;
 
     public Tabuleiro() {
         casasTabuleiro = new char[3][3];
         System.out.println("Inicializando tabuleiro..;");
         reiniciarTabuleiro();
+    }
+
+    public char[][] getCasasTabuleiro() {
+        return casasTabuleiro;
     }
 
     public void mostrarTabuleiro(){
